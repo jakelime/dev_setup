@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "terminal.external.windowsExec": "C:\\Users\\12345678\\AppData\\Local\\Programs\\PowerShell7\\pwsh.exe",
+    "workbench.colorTheme": "Predawn Twilight",
+    "explorer.confirmDelete": false,
+    "[django-html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "junstyle.vscode-django-support"
+      },
+      "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+      },
+      "window.zoomLevel": 1,
+      
+}
